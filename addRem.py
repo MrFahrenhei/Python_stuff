@@ -4,6 +4,7 @@ letters = ["a", "b", "c"]
 # add
 letters.append("d")
 letters.insert(0, "-")
+
 print(letters)
 
 # remove
